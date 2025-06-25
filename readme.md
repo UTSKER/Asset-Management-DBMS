@@ -28,7 +28,6 @@ Key goals:
 ###  User Registration & Authentication
 - Secure registration with email verification and two-factor authentication (2FA)
 - Role-based permissions for Clients, Portfolio Managers, and Administrator
-- Encrypted password storage for high security
 
 ###  Portfolio Management
 - Creation of multiple investment portfolios
@@ -38,18 +37,12 @@ Key goals:
 
 ###  Investment Tracking
 - Filtering performance reports by asset type, period, and returns
-- Interactive visualizations for historical trends
-- Comparison with predefined benchmarks and indices
+- Track historical data and trends
 
 ###  Transaction Management
 - Record buy, sell, and transfer transactions with timestamps
 - Support for multiple asset types: stocks, ETFs, crypto, mutual funds, bonds
 - Real-time profit/loss and gain/loss calculation
-
-###  Performance Analysis
-- Timeframe-based risk and return reports
-- Value-at-Risk (VaR) calculations and risk assessments
-- Scenario analyses and predictive forecasts
 
 ###  Customer Support
 - Priority-based ticketing system for user queries
